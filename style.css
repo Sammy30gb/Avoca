@@ -652,14 +652,14 @@ footer {
     padding-left: 60px;
     padding-right: 0px;
     padding-top: 5px;
-    width: 1400px;
+    width: 100%;
     padding-bottom: 50px;
   }
   .first-hero-headline {
     display: none !important;
   }
   .img-3 {
-    width: 4%;
+    width: 20%;
     cursor: pointer;
     padding-block: 10px;
   }
